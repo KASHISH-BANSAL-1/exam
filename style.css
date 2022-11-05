@@ -1,0 +1,77 @@
+*{ margin: 0px;
+    padding: 0px;}
+
+
+nav{
+    font-size: 20 rem;
+    display: flex;
+    background-color: rgb(36,13,13);
+    padding: 130px 130px;
+    width: 7000PX;
+    height: 200PX;
+    
+    
+}
+.b{
+    align-items: left;
+}
+nav ul li {
+    display: inline-block;
+    padding: 10px 10px;
+  font-size: 100PX;
+    display: flex;
+    margin-right: 100px;
+    
+}
+div p {
+    background-color: rgb(248, 207, 214);
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 5px;
+    font-size: larger;
+    width: 6000PX;
+    height: 150PX;
+    
+
+ 
+
+}
+.ME{
+    color: blue;
+}
+
+imp:hover{
+    animation: forwards;
+}
+
+
+ nav ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+div{
+    font-size: 50px;
+}
+img{
+    width: 1800px;
+    height: 1000px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+ 
+}
+nav li a:hover{
+    text-decoration: underline;
+}
